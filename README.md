@@ -9,3 +9,6 @@ TO DO
 - [ ] Integral term controller
 - [ ] Derivative term controller
 - [ ] Helper methods
+
+
+Made by Ayush Sagar :)
